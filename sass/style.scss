@@ -1,0 +1,23 @@
+/*
+Theme Name: Boiler
+Author: Kevin Haag
+Author URI: http://kevinhaag.com
+Description: This is a skeleton for the bare essentials of a theme. It includes only what is necessary to get a new WP install up and running quickly so you can get right to building your theme. Enjoy!
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This boilerplate, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others. :)
+*/
+
+// Modules
+@import "_modules/reset";
+@import "_modules/variables";
+@import "_modules/modifiers";
+@import "_modules/typography";
+
+// Layout
+@import "_layout/grid";
+
+// Partials

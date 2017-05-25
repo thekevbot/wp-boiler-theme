@@ -1,4 +1,4 @@
-###How to use this boilerplate
+### How to use this boilerplate
 
 1. Fork this repo and clone it into your `wp-content/themes` directory
 2. `npm install`

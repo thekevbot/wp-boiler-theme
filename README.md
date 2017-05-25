@@ -3,4 +3,4 @@
 1. Fork this repo and clone it into your `wp-content/themes` directory
 2. `npm install`
 
-Running `gulp` will spin up BrowserSync and will start watching for changes and compile your scss.
+Running `gulp` will spin up BrowserSync and will watch for changes/compiling your scss.
